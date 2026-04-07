@@ -1,36 +1,215 @@
-🚀 Minhaj Hossain
-<h3 align="center">MERN Stack Developer | React Developer</h3> <p align="center"> <em>Passionate about turning ideas into interactive, scalable, and beautiful web experiences through clean code and modern technologies.</em> </p> <p align="center"> <a href="https://www.linkedin.com/in/hossain-minhaj"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a> <a href="mailto:minhaj1080@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a> <img src="https://komarev.com/ghpvc/?username=minhaj-hossain&style=for-the-badge&color=brightgreen" alt="profile views"/> </p>
-🧑‍💻 About Me
-🔭 Currently building full-stack MERN applications
-🌱 Exploring advanced React patterns and backend architecture
-💡 Love creating clean UI, smooth UX, and efficient logic
-⚡ Believe in: Code. Debug. Learn. Repeat.
-🛠️ Tech Stack
-🚀 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" /> </p>
-🧠 Backend
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> </p>
-💾 Database
-<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> </p>
-⚙️ Languages
-<p> <img src="https://skillicons.dev/icons?i=js,c,cpp,sql" /> </p>
-🧰 Tools I Use
-<p> <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman" /> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=minhaj-hossain&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhaj-hossain&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaj-hossain&layout=compact&theme=tokyonight&hide_border=true"/> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=minhaj-hossain&theme=tokyonight&no-frame=true&margin-w=10&row=1"/> </p>
-🎯 Current Focus
-Building real-world projects
-Improving problem-solving skills
-Writing cleaner, scalable code
-Learning system design & best practices
-📌 Featured Projects (Coming Soon)
+<div align="center">
 
-🚧 I’m currently working on some solid projects. They will appear here very soon!
+<!-- CUSTOM BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00fff7,100:bf00ff&height=200&section=header&text=MINHAJ%20HOSSAIN&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20React%20Developer&descAlignY=58&descSize=18&animation=twinkling&stroke=00fff7&strokeWidth=2" width="100%"/>
 
-🤝 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/hossain-minhaj"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="mailto:minhaj1080@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> </p>
-💬 A Quote I Believe In
+<!-- ANIMATED TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=⚡+Building+the+future%2C+one+commit+at+a+time;🧠+MERN+Stack+%7C+React+%7C+Node.js+%7C+MongoDB;💡+Code.+Debug.+Learn.+Repeat." alt="Typing SVG" />
 
-“First, solve the problem. Then, write the code.”
+<!-- BADGES -->
+<p>
+  <a href="https://www.linkedin.com/in/hossain-minhaj">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00fff7&labelColor=0d0d0d" />
+  </a>
+  <a href="mailto:minhaj1080@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=00fff7&labelColor=0d0d0d" />
+  </a>
+  <a href="https://github.com/minhaj-hossain">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00fff7&labelColor=0d0d0d" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=minhaj-hossain&style=for-the-badge&color=00fff7&labelColor=0d0d0d&label=PROFILE+VIEWS" />
+</p>
+
+</div>
+
+---
+
+<!-- ABOUT ME SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=2&section=header&stroke=00fff7&strokeWidth=1" width="100%"/>
+
+## `> whoami`
+
+```typescript
+const minhaj = {
+  name        : "Minhaj Hossain",
+  role        : "MERN Stack Developer & React Specialist",
+  location    : "🌏 Bangladesh",
+  currentFocus: ["Full-Stack MERN Apps", "Advanced React Patterns", "System Design"],
+  passions    : ["Clean UI", "Smooth UX", "Efficient Logic", "Scalable Architecture"],
+  philosophy  : "First, solve the problem. Then, write the code.",
+  status      : "🟢 Open to opportunities",
+  funFact     : "I debug with console.log and I'm not ashamed 😄"
+};
+```
+
+<br/>
+
+---
+
+## `> tech --list --all`
+
+<div align="center">
+
+### ⚡ Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux&theme=dark" />
+</p>
+
+### 🛰️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,rest&theme=dark" />
+</p>
+
+### 🔧 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp&theme=dark" />
+</p>
+
+### 🧰 Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,npm,vercel,netlify&theme=dark" />
+</p>
+
+</div>
+
+---
+
+## `> stats --live`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=minhaj-hossain&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00fff7&icon_color=bf00ff&text_color=ffffff&ring_color=00fff7&border_radius=10" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=minhaj-hossain&theme=radical&hide_border=true&background=0d0d0d&ring=00fff7&fire=bf00ff&currStreakLabel=00fff7&sideLabels=ffffff&border_radius=10" height="175"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaj-hossain&layout=donut&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00fff7&text_color=ffffff&border_radius=10&langs_count=8" height="200"/>
+
+</div>
+
+---
+
+## `> trophies --display`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=minhaj-hossain&theme=radical&no-frame=true&margin-w=8&margin-h=8&column=7&no-bg=true" width="100%"/>
+</div>
+
+---
+
+## `> activity --graph`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhaj-hossain&theme=react-dark&bg_color=0d0d0d&color=00fff7&line=bf00ff&point=ffffff&area=true&hide_border=true&border_radius=10" width="100%"/>
+</div>
+
+---
+
+## `> projects --featured`
+
+<div align="center">
+
+<!--  PROJECT CARD 1  -->
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhaj-hossain&repo=your-repo-1&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00fff7&icon_color=bf00ff&text_color=ffffff&border_radius=10" />
+</a>
+&nbsp;
+<!--  PROJECT CARD 2  -->
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhaj-hossain&repo=your-repo-2&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00fff7&icon_color=bf00ff&text_color=ffffff&border_radius=10" />
+</a>
+
+<br/><br/>
+
+<!--  PLACEHOLDER CARDS STYLED  -->
+
+| 🚀 Project | 🛠️ Stack | 🌐 Status | 🔗 Link |
+|:-----------|:---------|:---------|:--------|
+| ⚡ **Project Alpha** *(WIP)* | React · Node · MongoDB | 🔨 In Development | Coming Soon |
+| 🧠 **Project Beta** *(WIP)* | Next.js · Express · MySQL | 🔨 In Development | Coming Soon |
+| 🌐 **Project Gamma** *(WIP)* | MERN · Tailwind · REST API | 🔨 In Development | Coming Soon |
+
+</div>
+
+---
+
+## `> music --now-playing`
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=neon&show_offline=true&background_color=0d0d0d&interchange=false&bar_color=00fff7&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
+
+> 🎵 *Replace `YOUR_SPOTIFY_USER_ID` with your actual Spotify user ID at [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com)*
+
+</div>
+
+---
+
+## `> snake --run`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhaj-hossain/minhaj-hossain/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhaj-hossain/minhaj-hossain/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/minhaj-hossain/minhaj-hossain/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+> ⚙️ *To activate the snake, set up the **GitHub Actions workflow** below in your profile repo.*
+
+</div>
+
+---
+
+## `> goals --current`
+
+```bash
+$ minhaj --focus 2025
+
+[✅] Building production-ready full-stack MERN apps
+[✅] Mastering advanced React patterns & performance optimization
+[🔄] Diving deep into system design & scalable architecture  
+[🔄] Writing cleaner, well-tested, documented code
+[📌] Contributing to open-source projects
+[📌] Exploring TypeScript & Next.js at a deeper level
+```
+
+---
+
+## `> connect --social`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hossain-minhaj">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" />
+</a>
+&nbsp;
+<a href="mailto:minhaj1080@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" />
+</a>
+&nbsp;
+<a href="https://github.com/minhaj-hossain">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
+</a>
+
+<br/><br/>
+
+> 💬 **"First, solve the problem. Then, write the code."**
+> 
+> — *I live by this. Every. Single. Day.*
+
+</div>
+
+---
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf00ff,50:00fff7,100:0d0d0d&height=120&section=footer&animation=twinkling" width="100%"/>
+
+<div align="center">
+  <sub>⚡ Crafted with 💻 + ☕ + 🎧 by <strong>Minhaj Hossain</strong> | Last updated 2025</sub>
+</div>
