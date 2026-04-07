@@ -1,11 +1,10 @@
 <div align="center">
 
 <!-- CUSTOM BANNER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=00FFF7&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Building+the+future%2C+one+commit+at+a+time...;MERN+Stack+%7C+React+%7C+Node.js+%7C+MongoDB;Code.+Debug.+Learn.+Repeat.;Full-Stack+Developer+%7C+Open+to+Work" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00fff7,100:bf00ff&height=200&section=header&text=MINHAJ%20HOSSAIN&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20React%20Developer&descAlignY=58&descSize=18&animation=twinkling&stroke=00fff7&strokeWidth=2" width="100%"/>
 
 <!-- ANIMATED TYPING SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+the+future%2C+one+commit+at+a+time...;MERN+Stack+%7C+React+%7C+Node.js+%7C+MongoDB;Code.+Debug.+Learn.+Repeat.;Full-Stack+Developer+%7C+Open+to+Work" alt="Typing SVG" />
-
 <!-- BADGES -->
 <p>
   <a href="https://www.linkedin.com/in/hossain-minhaj">
