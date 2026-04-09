@@ -93,12 +93,29 @@ const minhaj = {
 
 ---
 
-## `> trophies --display`
+## `> achievements --unlocked`
 
-[<img src="https://github-readme-stats.vercel.app/api?username=minhaj-hossain&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00fff7&icon_color=bf00ff&text_color=ffffff" width="100%"/>](https://github-profile-trophy.vercel.app/?username=minhaj-hossain&theme=radical&no-frame=true&column=6)
+<div align="center">
+
+![Commits](https://img.shields.io/badge/Total%20Commits-200%2B-00fff7?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0d0d)
+![Repos](https://img.shields.io/badge/Public%20Repos-10%2B-bf00ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)
+![Stack](https://img.shields.io/badge/Stack-MERN%20Full--Stack-ff6ec7?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d0d0d)
+![Status](https://img.shields.io/badge/Status-Open%20To%20Work-00fff7?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0d0d0d)
+
+<br/>
+
+| 🏅 Achievement | 📊 Details |
+|:---|:---|
+| 🔥 **Streak Builder** | Consistent daily contributions on GitHub |
+| 🚀 **Full-Stack Dev** | MERN — MongoDB, Express, React, Node.js |
+| 🎨 **UI Craftsman** | Clean interfaces with Tailwind CSS & modern design |
+| 🧠 **Problem Solver** | C, C++, JavaScript — strong logic foundation |
+| 🌐 **Open Source Ready** | Git, GitHub workflows, PRs & branching |
+| ⚡ **Fast Learner** | Always exploring new tools, patterns & best practices |
+
+</div>
 
 ---
-
 ## `> activity --graph`
 
 <div align="center">
