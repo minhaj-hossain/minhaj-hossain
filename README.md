@@ -127,20 +127,7 @@ const minhaj = {
 ## `> projects --featured`
 
 <div align="center">
-
-<!--  PROJECT CARD 1  -->
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhaj-hossain&repo=your-repo-1&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00fff7&icon_color=bf00ff&text_color=ffffff&border_radius=10" />
-</a>
-&nbsp;
-<!--  PROJECT CARD 2  -->
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhaj-hossain&repo=your-repo-2&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00fff7&icon_color=bf00ff&text_color=ffffff&border_radius=10" />
-</a>
-
-<br/><br/>
-
-<!--  PLACEHOLDER CARDS STYLED  -->
+ 
 
 | 🚀 Project | 🛠️ Stack | 🌐 Status | 🔗 Link |
 |:-----------|:---------|:---------|:--------|
@@ -182,7 +169,7 @@ const minhaj = {
 ## `> goals --current`
 
 ```bash
-$ minhaj --focus 2025
+$ minhaj --focus 2026
 
 [✅] Building production-ready full-stack MERN apps
 [✅] Mastering advanced React patterns & performance optimization
