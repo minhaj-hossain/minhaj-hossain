@@ -141,7 +141,7 @@ const minhaj = {
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=neon&show_offline=true&background_color=0d0d0d&interchange=false&bar_color=00fff7&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315zeudcfeb25skvqwtes3e2knai&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=315zeudcfeb25skvqwtes3e2knai&redirect=true)
 
 > 🎵 *Replace `YOUR_SPOTIFY_USER_ID` with your actual Spotify user ID at [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com)*
 
