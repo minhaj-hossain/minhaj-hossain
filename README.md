@@ -81,13 +81,13 @@ const minhaj = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=minhaj-hossain&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00fff7&icon_color=bf00ff&text_color=ffffff&ring_color=00fff7&border_radius=10" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=minhaj-hossain&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00fff7&icon_color=bf00ff&text_color=ffffff&ring_color=00fff7&border_radius=10&cache_seconds=1800&rank_icon=github" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minhaj-hossain&theme=radical&hide_border=true&background=0d0d0d&ring=00fff7&fire=bf00ff&currStreakLabel=00fff7&sideLabels=ffffff&border_radius=10" height="175"/>
+<img src="https://streak-stats.demolab.com?user=minhaj-hossain&theme=radical&hide_border=true&background=0d0d0d&ring=00fff7&fire=bf00ff&currStreakLabel=00fff7&sideLabels=ffffff&border_radius=10" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaj-hossain&layout=donut&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00fff7&text_color=ffffff&border_radius=10&langs_count=8" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaj-hossain&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00fff7&text_color=ffffff&border_radius=10&langs_count=8&cache_seconds=1800" height="175"/>
 
 </div>
 
@@ -160,7 +160,6 @@ const minhaj = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/minhaj-hossain/minhaj-hossain/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-> ⚙️ *To activate the snake, set up the **GitHub Actions workflow** below in your profile repo.*
 
 </div>
 
