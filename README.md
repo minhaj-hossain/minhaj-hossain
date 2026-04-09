@@ -77,28 +77,12 @@ const minhaj = {
 
 ---
 
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abdullah-alsaba&theme=tokyonight&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=22c55e&dates=9ca3af" height="220" />
-</div>
-
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-alsaba&bg_color=0d1117&color=22c55e&line=22c55e&point=86efac&area=true&hide_border=true" width="95%" />
-</p>
-
-
----
 
 ## `> stats --live`
 
 <div align="center">
 
-
 <img src="https://streak-stats.demolab.com?user=minhaj-hossain&theme=radical&hide_border=true&background=0d0d0d&ring=00fff7&fire=bf00ff&currStreakLabel=00fff7&sideLabels=ffffff&border_radius=10" height="175"/>
-
-<br/><br/>
 
 </div>
 
