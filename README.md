@@ -95,9 +95,7 @@ const minhaj = {
 
 ## `> trophies --display`
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=minhaj-hossain&theme=radical&no-frame=true&margin-w=8&margin-h=8&column=7&no-bg=true" width="100%"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=minhaj-hossain&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00fff7&icon_color=bf00ff&text_color=ffffff" width="100%"/>
 
 ---
 
@@ -143,7 +141,6 @@ const minhaj = {
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315zeudcfeb25skvqwtes3e2knai&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=315zeudcfeb25skvqwtes3e2knai&redirect=true)
 
-> 🎵 *Replace `YOUR_SPOTIFY_USER_ID` with your actual Spotify user ID at [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com)*
 
 </div>
 
