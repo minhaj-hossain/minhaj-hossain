@@ -101,8 +101,6 @@ const minhaj = {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaj-hossain&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00fff7&text_color=ffffff&border_radius=10&langs_count=8&cache_seconds=1800" height="175"/>
-
 </div>
 
 ---
