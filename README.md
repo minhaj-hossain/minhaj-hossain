@@ -95,7 +95,7 @@ const minhaj = {
 
 ## `> trophies --display`
 
-<img src="https://github-readme-stats.vercel.app/api?username=minhaj-hossain&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00fff7&icon_color=bf00ff&text_color=ffffff" width="100%"/>
+[<img src="https://github-readme-stats.vercel.app/api?username=minhaj-hossain&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00fff7&icon_color=bf00ff&text_color=ffffff" width="100%"/>](https://github-profile-trophy.vercel.app/?username=minhaj-hossain&theme=radical&no-frame=true&column=6)
 
 ---
 
