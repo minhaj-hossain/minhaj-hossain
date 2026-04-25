@@ -31,7 +31,7 @@
 ```typescript
 const minhaj = {
   name        : "Minhaj Hossain",
-  role        : "MERN Stack Developer & React Specialist",
+  role        : "MERN Stack Developer & Next.js Specialist",
   location    : "🌏 Bangladesh",
   currentFocus: ["Full-Stack MERN Apps", "Advanced React Patterns", "System Design"],
   passions    : ["Clean UI", "Smooth UX", "Efficient Logic", "Scalable Architecture"],
