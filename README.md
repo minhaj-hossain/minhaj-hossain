@@ -29,17 +29,39 @@
 ## `> whoami`
 
 ```typescript
+```javascript
 const minhaj = {
-  name        : "Minhaj Hossain",
-  role        : "MERN Stack Developer & Next.js Specialist",
-  location    : "🌏 Bangladesh",
-  currentFocus: ["Full-Stack MERN Apps", "Advanced React Patterns", "System Design"],
-  passions    : ["Clean UI", "Smooth UX", "Efficient Logic", "Scalable Architecture"],
-  philosophy  : "First, solve the problem. Then, write the code.",
-  status      : "🟢 Open to opportunities",
-  funFact     : "I debug with console.log and I'm not ashamed 😄"
+  title: "Full-Stack JavaScript Developer",
+
+  mission:
+    "Building fast, scalable, and user-focused web applications.",
+
+  stack: {
+    frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB"],
+    tools: ["Git", "GitHub", "Vercel", "Stripe"]
+  },
+
+  currentlyFocusedOn: [
+    "Scalable Full-Stack Applications",
+    "System Design Fundamentals",
+    "Performance Optimization",
+    "Developer Experience"
+  ],
+
+  mindset: [
+    "Learn by building",
+    "Write maintainable code",
+    "Focus on user experience",
+    "Solve real problems"
+  ],
+
+  quote:
+    "First make it work. Then make it clean. Then make it scalable."
 };
 ```
+
 
 <br/>
 
