@@ -28,6 +28,8 @@
 
 ## `> whoami`
 
+
+```javascript
 const minhaj = {
   title: "Full-Stack JavaScript Developer",
 
@@ -54,7 +56,12 @@ const minhaj = {
     "Focus on user experience",
     "Solve real problems"
   ],
+
+  quote:
+    "First make it work. Then make it clean. Then make it scalable."
 };
+```
+
 ```
 
 
