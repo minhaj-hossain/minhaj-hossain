@@ -62,8 +62,6 @@ const minhaj = {
 };
 ```
 
-```
-
 
 <br/>
 
