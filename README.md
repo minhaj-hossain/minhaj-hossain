@@ -31,7 +31,7 @@
 
 ```javascript
 const minhaj = {
-  title: "Full-Stack JavaScript Developer",
+  title: "Full-Stack Developer",
 
   mission:
     "Building fast, scalable, and user-focused web applications.",
