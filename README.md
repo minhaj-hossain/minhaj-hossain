@@ -104,8 +104,7 @@ const minhaj = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=minhaj-hossain&theme=radical&hide_border=true&background=0d0d0d&ring=00fff7&fire=bf00ff&currStreakLabel=00fff7&sideLabels=ffffff&border_radius=10" height="175"/>
-
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=minhaj-hossain&theme=radical&hide_border=true&background=0d0d0d&ring=00fff7&fire=bf00ff&currStreakLabel=00fff7&sideLabels=ffffff&border_radius=10" height="175"/>
 </div>
 
 ---
